@@ -1,4 +1,4 @@
-/**
+/**2
  * Module for the Event model
  */
 define([ 

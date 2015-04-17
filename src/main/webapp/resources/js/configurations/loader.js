@@ -1,4 +1,4 @@
-//detect the appropriate module to load
+//detect the appropriate module to load Phát hiện các mô-đun thích hợp để tải
 define(function () {
 
     /*
