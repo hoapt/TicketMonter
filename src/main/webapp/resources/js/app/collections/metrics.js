@@ -1,4 +1,4 @@
-/**
+/**định nghĩa một bộ sưu tập Backbone để xử lý các bộ sưu tập số liệu
  * The module for a collection of Metrics
  */
 define([

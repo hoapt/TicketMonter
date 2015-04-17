@@ -1,4 +1,4 @@
-/**
+/**hiển thị màn hình khi người dùng điều hướng đến
  * A module for the router of the desktop application
  */
 define("router", [

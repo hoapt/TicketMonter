@@ -1,3 +1,4 @@
+/*tạo ra các điểm kiểm soát các Bot*/
 define([
     'jquery',
     'underscore',

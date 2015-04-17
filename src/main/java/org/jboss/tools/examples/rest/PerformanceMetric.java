@@ -1,3 +1,4 @@
+/*để đại diện cho cấu trúc của một Hiện tại số liệu API.*/
 package org.jboss.tools.examples.rest;
 
 import java.util.Date;

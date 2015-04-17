@@ -1,3 +1,4 @@
+/*tạo các view để hiển thị các số liệu*/
 define([
     'backbone',
 	'configuration',

@@ -1,3 +1,4 @@
+/* tạo ra một cái nhìn Backbone hợp để giữ MetricsView và BotView vì nó là thành phần phụ quan điểm*/
 define([
     'backbone',
 	'configuration',

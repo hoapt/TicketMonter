@@ -1,4 +1,4 @@
-/**
+/* biểu diễn dữ liệu số liệu cho một chương trình cá nhân.
  * Module for the Metric model
  */
 define([
